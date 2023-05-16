@@ -1,0 +1,29 @@
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\bin\Debug\Projek Pemesanan Tiket Kereta Api.exe.config
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\bin\Debug\Projek Pemesanan Tiket Kereta Api.exe
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\bin\Debug\Projek Pemesanan Tiket Kereta Api.pdb
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\bin\Debug\Projek Pemesanan Tiket Kereta Api.xml
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek_Pemesanan_Tiket_Kereta_Api.Pemesanan.resources
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek_Pemesanan_Tiket_Kereta_Api.Resources.resources
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek Pemesanan Tiket Kereta Api.vbproj.GenerateResource.Cache
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek Pemesanan Tiket Kereta Api.exe
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek Pemesanan Tiket Kereta Api.xml
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek Pemesanan Tiket Kereta Api.pdb
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek_Pemesanan_Tiket_Kereta_Api.Form4.resources
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek_Pemesanan_Tiket_Kereta_Api.Laporan.resources
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek_Pemesanan_Tiket_Kereta_Api.Login.resources
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\bin\Debug\dbLogin.mdb
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek_Pemesanan_Tiket_Kereta_Api.Form5.resources
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\bin\Debug\Database5.mdb
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek_Pemesanan_Tiket_Kereta_Api.HelpMenu.resources
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek_Pemesanan_Tiket_Kereta_Api.HelpPemesanan.resources
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek_Pemesanan_Tiket_Kereta_Api.HelpLaporan.resources
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\bin\Debug\dbLogin4.mdb
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\bin\Debug\Database9.mdb
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek_Pemesanan_Tiket_Kereta_Api.Cetak_Data.resources
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek_Pemesanan_Tiket_Kereta_Api.Print_Data.resources
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek_Pemesanan_Tiket_Kereta_Api.Create_Account.resources
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek_Pemesanan_Tiket_Kereta_Api.SplashScreen1.resources
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\bin\Debug\Projek Pemesanan Tiket Kereta Api.exe.manifest
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\bin\Debug\Projek Pemesanan Tiket Kereta Api.application
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek Pemesanan Tiket Kereta Api.exe.manifest
+D:\TKJ\Bengkel\Pedas\Projek\VB tiket\Projek Pemesanan Tiket Kereta Api\Projek Pemesanan Tiket Kereta Api\obj\x86\Debug\Projek Pemesanan Tiket Kereta Api.application

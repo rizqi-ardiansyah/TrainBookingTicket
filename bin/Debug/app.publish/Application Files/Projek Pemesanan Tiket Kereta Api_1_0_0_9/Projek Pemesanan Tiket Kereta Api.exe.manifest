@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Projek Pemesanan Tiket Kereta Api.exe" version="1.0.0.9" publicKeyToken="86d414b07edf1b51" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Projek Pemesanan Tiket Kereta Api" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Projek Pemesanan Tiket Kereta Api.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Projek Pemesanan Tiket Kereta Api.exe" size="2115072">
+      <assemblyIdentity name="Projek Pemesanan Tiket Kereta Api" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ANLsACpiUwpEvE3RepaiGvNoaXI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Database5.mdb" size="241664" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>48xNlGLG84A4LhXGXkc1QO3Thyk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Database9.mdb" size="237568" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>n/zcsB/BMaU17Q+0+u5OBFGkDQw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="dbLogin.mdb" size="331776" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>WLEzKZ56FvR60FUCrSTLoGcch2U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="dbLogin4.mdb" size="393216" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>5j+JLuBXsODC7tWUEgxEhpEhe48=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Projek Pemesanan Tiket Kereta Api.exe.config" size="5190">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>FJqNDB0zLWXzixxWV0mpDUYfNPg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=DESKTOP-A36S755\hp" issuerKeyHash="e6bbd84118c2d2f66ff9aca43f2fdf51f28322d0" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3CqvUyh3NC+6FIZVXHdmBdwfNWc=</DigestValue></Reference></SignedInfo><SignatureValue>KqZPyy9IxAQM1JRCCd+dLCYSu7dswQSxf2pobC8hIt3iM/gNy8eCX01Yqit7O26KyS5k/kaa7N01JiOmYYdQFvF8LxnstFGCQ7B1auJRIi40Y0SdvXNaMgbovZfOwgQnSRFKlV1ZAxz8lPFlXCvQ7s4tMJDogYBuk4dhJx9V85o=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vae7r7d+Nw0fX/7nmHw5qavqZGXnmwrIYpIEmNkmjYTAghANp+0lLUuv2ON/TkztPdY/WlDES8VKTfv7mj75lVwMeq4zIBJQpD/MPrgQH3wvNFGyhNFw6aho4KB9dr3G23+mal3wea/krgi6zFlVBNm70nG0uyoCiCuy1SMQeV0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="67351fdc0566775c558614ba2f34772853af2adc" Description="" Url=""><as:assemblyIdentity name="Projek Pemesanan Tiket Kereta Api.exe" version="1.0.0.9" publicKeyToken="86d414b07edf1b51" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-A36S755\hp</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>hFJt4x0higJIrGpgOsb573XpONE=</DigestValue></Reference></SignedInfo><SignatureValue>DdRXi4P6vBV2ZDBGYOtKCU2PbKl2pKNwvitz4cmTnGwmMdfKOCx/29RabqUFr9FJ12duti6TGGVHTpw0RC2MdYdXUdG/I/sDoL1VCY/9xZ1yP9SECCInDKfThlqZYFhT+6HqeCx+4ZJJ1y4GhSysALsRfTUtswPTJa69soXuvgI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vae7r7d+Nw0fX/7nmHw5qavqZGXnmwrIYpIEmNkmjYTAghANp+0lLUuv2ON/TkztPdY/WlDES8VKTfv7mj75lVwMeq4zIBJQpD/MPrgQH3wvNFGyhNFw6aho4KB9dr3G23+mal3wea/krgi6zFlVBNm70nG0uyoCiCuy1SMQeV0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQNOSBVd3MP6VPPxVhGJTHczANBgkqhkiG9w0BAQUFADAvMS0wKwYDVQQDHiQARABFAFMASwBUAE8AUAAtAEEAMwA2AFMANwA1ADUAXABoAHAwHhcNMTgwMzI5MDgxMjQwWhcNMTkwMzI5MTQxMjQwWjAvMS0wKwYDVQQDHiQARABFAFMASwBUAE8AUAAtAEEAMwA2AFMANwA1ADUAXABoAHAwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL2nu6+3fjcNH1/+55h8Oamr6mRl55sKyGKSBJjZJo2EwIIQDaftJS1Lr9jjf05M7T3WP1pQxEvFSk37+5o++ZVcDHquMyASUKQ/zD64EB98LzRRsoTRcOmoaOCgfXa9xtt/pmpd8Hmv5K4IusxZVQTZu9JxtLsqAogrstUjEHldAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEARr5ROrpS6kwng45haWSKJr0qqZNF4qV8t+0Hr2L6lMTWyjrRxpTPge2R+iAFSj2HH4pBZdfe9jNTBWd7GzlMbzcVTgZxt+JBYJEw6Gv5O7g+H6Amlyd/OdtOCVs/5DPxb2iT9jkWA5cFuFhxtP81brhwV2ICaNkg0i/aAEaAz40=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
